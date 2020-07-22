@@ -11,7 +11,11 @@ My preference is to put them in a CSL folder at the X-Plane root, alongside Blue
 
 ## Aircraft included
 
+### A319 Alpaca Airways livery by [jamlen](https://github.com/jamlen)
+
 ### A320 FD2S livery by PaulF
+
+### A350 Alpaca Airways livery by [Mowen](https://github.com/DuckWhsiperer)
 
 ### B738 FD2S livery
 
@@ -28,5 +32,3 @@ My preference is to put them in a CSL folder at the X-Plane root, alongside Blue
 ### E195 FD2S livery by [jamlen](https://github.com/jamlen)
 
 ### SF34 FD2S livery by [jamlen](https://github.com/jamlen)
-
-### A350 AlpacaAirways livery by [Mowen](https://github.com/DuckWhsiperer)
