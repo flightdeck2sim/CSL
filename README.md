@@ -33,6 +33,8 @@ My preference is to put them in a CSL folder at the X-Plane root, alongside Blue
 
 ### CONC FD2S livery by [lcre0002](https://github.com/lcre0002) and Jordan Todd
 
+### DH8D Alpaca Airways livieries by [Mowen](https://github.com/DuckWhsiperer)
+
 ### E170 FD2S livery by [jamlen](https://github.com/jamlen)
 
 ### E195 FD2S livery by [jamlen](https://github.com/jamlen)
