@@ -7,7 +7,26 @@ CSLs for flightdeck2sim liveries
 
 Download and unzip the latest release from [releases/latest](https://github.com/flightdeck2sim/CSL/releases/latest); then move the `ALPACA` folder into the X-Plane following the instructions on the [xPilot docs](https://xpilot.clowd.io/docs#csl-models).
 
-My preference is to put them in a CSL folder at the X-Plane root, alongside Bluebell CSL and configure the xPilot client to have both.
+My preference is to put them in a CSL folder at the X-Plane root, alongside Bluebell CSL and configure the xPilot client to have both. Also note that the paths configured in the xPilot plugin can be relative to the XP root:
+
+```
+X-Plane 11
+   ├── ...
+   ├── Aircraft
+   ├── Custom Scenery
+   ├── ...
+   ├── CSL
+   │   ├── ALPACA
+   │   │   ├── B738_LIT.dds
+   │   │   ├── B738_VCP.dds
+   │   │   ├── B738_VCP.obj
+   │   │   └── xsb_aircraft.txt
+   │   └── Bluebell
+   │       ├── BB_Airbus
+   │       ├── BB_Boeing
+   │       ├── ...
+   ├── ...
+```
 
 ## Aircraft included
 
@@ -16,6 +35,8 @@ My preference is to put them in a CSL folder at the X-Plane root, alongside Blue
 ### A319 Alpaca Airways livery by [jamlen](https://github.com/jamlen)
 
 ### A320 FD2S livery by PaulF
+
+### A320 Alpaca Airways livery by [jamlen](https://github.com/jamlen)
 
 ### A321 Alpaca Airways livery by [Mowen](https://github.com/DuckWhsiperer)
 
@@ -37,9 +58,11 @@ My preference is to put them in a CSL folder at the X-Plane root, alongside Blue
 
 ### CONC FD2S livery by [lcre0002](https://github.com/lcre0002) and Jordan Todd
 
-### DH8D Alpaca Airways livieries by [Mowen](https://github.com/DuckWhsiperer)
+### DH8D Alpaca Airways liveries by [Mowen](https://github.com/DuckWhsiperer)
 
 ### E170 FD2S livery by [jamlen](https://github.com/jamlen)
+
+### E170 Alpaca Airways livery by [jamlen](https://github.com/jamlen)
 
 ### E195 FD2S livery by [jamlen](https://github.com/jamlen)
 
