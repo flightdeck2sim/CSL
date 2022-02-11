@@ -20,6 +20,7 @@ X-Plane 11
    │   │   ├── B738_LIT.dds
    │   │   ├── B738_VCP.dds
    │   │   ├── B738_VCP.obj
+   │   |   ├── ...
    │   │   └── xsb_aircraft.txt
    │   └── Bluebell
    │       ├── BB_Airbus
@@ -30,42 +31,38 @@ X-Plane 11
 
 ## Aircraft included
 
-### A306F Alpaca Cargo livery by [Mowen](https://github.com/DuckWhsiperer)
-
-### A319 Alpaca Airways livery by [jamlen](https://github.com/jamlen)
-
-### A320 FD2S livery by PaulF
-
-### A320 Alpaca Airways livery by [jamlen](https://github.com/jamlen)
-
-### A321 Alpaca Airways livery by [Mowen](https://github.com/DuckWhsiperer)
-
-### A350 Alpaca Airways livery by [Mowen](https://github.com/DuckWhsiperer)
-
-### B738 FD2S livery
-
-### B738 Alpaca Airways livery by [jamlen](https://github.com/jamlen)
-
-### B752 Alpaca Airways livery by [jamlen](https://github.com/jamlen)
-
-### B752 FD2S livery by [jamlen](https://github.com/jamlen)
-
-### B763 Alpaca Airways livery by [Mowen](https://github.com/DuckWhsiperer)
-
-### B772 Alpaca Airways livery by [Mowen](https://github.com/DuckWhsiperer)
-
-### B773 Alpaca Airways livery by [Mowen](https://github.com/DuckWhsiperer)
-
-### CONC FD2S livery by [lcre0002](https://github.com/lcre0002) and Jordan Todd
-
-### DH8D Alpaca Airways liveries by [Mowen](https://github.com/DuckWhsiperer)
-
-### E170 FD2S livery by [jamlen](https://github.com/jamlen)
-
-### E170 Alpaca Airways livery by [jamlen](https://github.com/jamlen)
-
-### E195 FD2S livery by [jamlen](https://github.com/jamlen)
-
-### SF34 FD2S livery by [jamlen](https://github.com/jamlen)
-
-### T154 Alpacaflot livery by [Mowen](https://github.com/DuckWhsiperer)
+* A306F Alpaca Cargo livery by [Mowen](https://github.com/DuckWhsiperer)
+* A306 Alpaca Retro livery by [B0unc3](https://github.com/slashbnl)
+* A310 Alpaca Airways livery by [jamlen](https://github.com/jamlen)
+* A310 Alpaca Retro livery by [B0unc3](https://github.com/slashbnl)
+* A319 Alpaca Airways livery by [jamlen](https://github.com/jamlen)
+* A320 FD2S livery by PaulF
+* A320 CFMAlpaca Airways livery by [jamlen](https://github.com/jamlen)
+* A320 CFML Alpaca Airways livery by [jamlen](https://github.com/jamlen)
+* A320 IAE Alpaca Airways livery by [jamlen](https://github.com/jamlen)
+* A321 Alpaca Airways livery by [Mowen](https://github.com/DuckWhsiperer)
+* A346 Alpaca Airways livery by [jamlen](https://github.com/jamlen)
+* A350 Alpaca Airways livery by [Mowen](https://github.com/DuckWhsiperer)
+* B463 BAe 146 Alpaca Airways livery by [jamlen](https://github.com/jamlen)
+* B738 FD2S livery
+* B735 Alpaca Airways livery by [jamlen](https://github.com/jamlen)
+* B736 Alpaca Airways livery by [jamlen](https://github.com/jamlen)
+* B738 Alpaca Airways livery by [jamlen](https://github.com/jamlen)
+* B739 Alpaca Airways livery by [jamlen](https://github.com/jamlen)
+* B748 Alpaca Airways livery by [jamlen](https://github.com/jamlen)
+* B748F Alpaca Airways livery by [jamlen](https://github.com/jamlen)
+* B752 Alpaca Airways livery by [jamlen](https://github.com/jamlen)
+* B752 FD2S livery by [jamlen](https://github.com/jamlen)
+* B763 Alpaca Airways livery by [Mowen](https://github.com/DuckWhsiperer)
+* B772 Alpaca Airways livery by [Mowen](https://github.com/DuckWhsiperer)
+* B773 Alpaca Airways livery by [Mowen](https://github.com/DuckWhsiperer)
+* CONC FD2S livery by [lcre0002](https://github.com/lcre0002) and Jordan Todd
+* CRJ7 Alpaca Airways livery by [jamlen](https://github.com/jamlen)
+* DH8D Alpaca Airways liveries by [Mowen](https://github.com/DuckWhsiperer)
+* DH8D Alpacanada livery by [jamlen](https://github.com/jamlen)
+* E170 FD2S livery by [jamlen](https://github.com/jamlen)
+* E170 Alpaca Airways livery by [jamlen](https://github.com/jamlen)
+* E195 FD2S livery by [jamlen](https://github.com/jamlen)
+* MD88 Alpaca Livery by [jamlen](https://github.com/jamlen)
+* SF34 FD2S livery by [jamlen](https://github.com/jamlen)
+* T154 Alpacaflot livery by [Mowen](https://github.com/DuckWhsiperer)
