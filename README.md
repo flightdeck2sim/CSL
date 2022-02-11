@@ -5,7 +5,7 @@ CSLs for flightdeck2sim liveries
 
 ## Instructions
 
-Download and unzip the latest release from [releases/latest](https://github.com/flightdeck2sim/CSL/releases/latest); then move the `ALPACA` folder into the X-Plane following the instructions on the [xPilot docs](https://xpilot.clowd.io/docs#csl-models).
+Download and unzip the latest release from [releases/latest](https://github.com/flightdeck2sim/CSL/releases/latest); then move the `ALPACA` folder into the X-Plane following the instructions on the [xPilot docs](https://beta.xpilot-project.org/#/installation?id=install-additional-csl-packages).
 
 My preference is to put them in a CSL folder at the X-Plane root, alongside Bluebell CSL and configure the xPilot client to have both. Also note that the paths configured in the xPilot plugin can be relative to the XP root:
 
